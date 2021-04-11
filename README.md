@@ -15,6 +15,7 @@ public class Main {
 }
 
 ``
+\n
 -klasę bezierCurves
 
 ``
