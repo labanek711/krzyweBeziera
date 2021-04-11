@@ -2,8 +2,7 @@
 Projekt podzielony jest na 3 klasy:
 -klasę main
 
-``
-package com.company;
+```
 
 public class Main {
 
@@ -14,14 +13,12 @@ public class Main {
     }
 }
 
-``
+```
 \n
 -klasę bezierCurves
 
-``
-package com.company;
+```
 
-import javax.swing.*;
 
 class bezierCurves extends JFrame {
 
@@ -42,7 +39,7 @@ class bezierCurves extends JFrame {
         
     }
 }
-``
+```
 
 -klasę algorytmBeziera- w której wszystko się dzieje
 
