@@ -16,23 +16,32 @@ public class Main {
 
 ``
 -klasę bezierCurves
-###
+
+``
 package com.company;
+
 import javax.swing.*;
+
 class bezierCurves extends JFrame {
+
     public bezierCurves() {
+    
         initUI();
+        
     }
+    
     private void initUI() {
+    
         setTitle("Krzywe Beziera");
         setSize(700, 600);
         setResizable(false);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         add(new algorytmBeziera());
+        
     }
 }
-###
+``
 
 -klasę algorytmBeziera- w której wszystko się dzieje
 
