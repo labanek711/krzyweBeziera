@@ -2,7 +2,7 @@
 Projekt podzielony jest na 3 klasy:
 -klasę main
 
-###``
+``
 package com.company;
 public class Main {
     public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Main {
                 ex.setVisible(true);
     }
 }
-### ``
+``
 -klasę bezierCurves
 ###
 package com.company;
