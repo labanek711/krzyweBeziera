@@ -1,6 +1,6 @@
 # krzyweBeziera
 Projekt podzielony jest na 3 klasy:
--klasę main
+*klasę main
 
 ```
 
@@ -14,8 +14,7 @@ public class Main {
 }
 
 ```
-\n
--klasę bezierCurves
+*klasę bezierCurves
 
 ```
 
@@ -41,6 +40,6 @@ class bezierCurves extends JFrame {
 }
 ```
 
--klasę algorytmBeziera- w której wszystko się dzieje
+*klasę algorytmBeziera- w której wszystko się dzieje
 
 W ostatniej klasie wszystkie etapy tworzenia programu mają komentarze. Zacząłem od wyszukanai odpowiednich punktów odpowiadającym moim inicjałom, następnie dodałem moją silnie oraz funkcję pomocniczą do rysowania naszych krzywych beziera. Na koniec zostało nam wyrysować nasze punkty na ekranmie i wywołać funkcję pomocniczą
